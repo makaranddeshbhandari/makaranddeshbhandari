@@ -1,15 +1,10 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Makarand A Deshbhandari</h1>
 <h3 align="center">A Passionate Full Stack Developer from Bengaluru, India</h3>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" alt="Profile Picture" width="200" style="border-radius: 50%;">
-</p>
-
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **Fitness Gamification & Uni Pay Projects**  
+- 🔭 I’m currently working on **Uni Pay Projects**  
 - 🌱 I’m learning **React, Node.js, TypeScript, and System Design**  
 - 💬 Ask me about **JavaScript, React, or UI/UX Design**  
 - 📫 Reach me at: **deshbhandarimakarand@gmail.com**  
