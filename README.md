@@ -1,31 +1,30 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Makarand A Deshbhandari</h1>
-<h3 align="center">A Passionate Full Stack Developer from Bengaluru, India</h3>
+<h1 align="center">Hi , I'm Makarand A Deshbhandari</h1>
+
 ---
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **Uni Pay Projects**  
 - 🌱 I’m learning **React, Node.js, TypeScript, and System Design**  
 - 💬 Ask me about **JavaScript, React, or UI/UX Design**  
-- 📫 Reach me at: **deshbhandarimakarand@gmail.com**  
-- ⚡ Fun fact: *I love bike riding, playing volleyball, and coding at night!*  
+- 📫 Reach me at: **deshbhandarimakarand@gmail.com**   
 
 ---
 
 ## 🧰 Tech Stack  
 
 ### 💻 Programming Languages  
-`HTML5` `CSS3` `JavaScript` `TypeScript` `Python` `Java` `C` `C++`
+`HTML5` `CSS3` `Bash` `JavaScript` `Java` 
 
 ### 🧩 Frameworks & Libraries  
-`React` `Next.js` `TailwindCSS` `Bootstrap` `Node.js` `Express.js` `Django`
+`TailwindCSS` `Bootstrap` 
 
 ### 🗃️ Databases  
-`MySQL` `PostgreSQL` `MongoDB` `Supabase`
+`MySQL` `MongoDB` `Supabase`
 
 ### ☁️ Tools & Platforms  
-`AWS` `Vercel` `Netlify` `Docker` `Render` `Figma` `Canva`  
-`Git` `GitHub` `VS Code` `Postman` `NPM` `Notion`
+`AWS` `Vercel` `Docker` `Figma` 
+`GitHub` `VS Code` `Postman` `Jenkins` 
 
 ### 💻 Operating Systems  
 `Windows` `Linux`
