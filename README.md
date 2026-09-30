@@ -5,8 +5,7 @@
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **Uni Pay Projects**  
-- 🌱 I’m learning **React, Node.js, TypeScript, and System Design**  
-- 💬 Ask me about **JavaScript, React, or UI/UX Design**  
+- 🌱 I’m learning **kubernetes,Ansible,Terraform**    
 - 📫 Reach me at: **deshbhandarimakarand@gmail.com**   
 
 ---
